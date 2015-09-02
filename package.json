@@ -1,6 +1,6 @@
 {
   "name": "invalidate",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Invalidate a cached image in the browser, using an iframe trick.",
   "main": "lib/index.js",
   "scripts": {
