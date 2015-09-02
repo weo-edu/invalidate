@@ -1,0 +1,27 @@
+{
+  "name": "invalidate",
+  "version": "0.1.0",
+  "description": "Invalidate a cached image in the browser, using an iframe trick.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weo-edu/invalidate"
+  },
+  "keywords": [
+    "invalidate",
+    "cache",
+    "image",
+    "browser",
+    "client",
+    "clientside"
+  ],
+  "author": "ashaffer (http://github.com/ashaffer)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weo-edu/invalidate/issues"
+  },
+  "homepage": "https://github.com/weo-edu/invalidate"
+}
